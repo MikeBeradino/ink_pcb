@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 99.2 105.7"
+	 style="enable-background:new 0 0 99.2 105.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.5;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:10;}
+</style>
+<g>
+	<g id="board">
+		<path id="boardoutline" class="st0" d="M18.6,38c2.3,0,4.1,1.8,4.1,4.1s-1.8,4.1-4.1,4.1s-4.1-1.8-4.1-4.1S16.4,38,18.6,38z
+			 M49.6,38c2.3,0,4.1,1.8,4.1,4.1s-1.8,4.1-4.1,4.1s-4.1-1.8-4.1-4.1S47.3,38,49.6,38z M80.6,38c2.3,0,4.1,1.8,4.1,4.1
+			s-1.8,4.1-4.1,4.1c-2.3,0-4.1-1.8-4.1-4.1S78.3,38,80.6,38z M18.2,80.3C18.2,80.3,18.3,80.3,18.2,80.3c2.1,0,3.7,1.6,3.7,3.7
+			c0,2-1.6,3.7-3.7,3.7c-2,0-3.7-1.6-3.7-3.7C14.6,82,16.2,80.3,18.2,80.3z M80.9,80.4L80.9,80.4L80.9,80.4c2.1,0,3.7,1.7,3.7,3.7
+			s-1.6,3.7-3.7,3.7c-2,0-3.7-1.6-3.7-3.7C77.2,82.1,78.9,80.5,80.9,80.4L80.9,80.4z M0.1,105.7H99 M99,105.7L99.2,0L0.1,0.1
+			l0,105.6"/>
+	</g>
+</g>
+<g>
+	<g transform="translate(6.9776,68.3912)">
+		<g id="copper1">
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(23.8624,70.7424)">
+	</g>
+</g>
+<g>
+	<g transform="translate(92.584,14.2494)">
+	</g>
+</g>
+<g>
+	<g transform="translate(58.852,48.2652)">
+	</g>
+</g>
+<g>
+	<g transform="translate(39.0088,57.0526)">
+	</g>
+</g>
+<g>
+	<g transform="translate(49.2136,57.0526)">
+	</g>
+</g>
+<rect x="55.2" y="71.1" width="7.7" height="3.3"/>
+<rect x="55.3" y="75" width="7.7" height="3.3"/>
+<rect x="55.3" y="78.9" width="7.7" height="3.3"/>
+<rect x="55.3" y="82.7" width="7.7" height="3.3"/>
+<rect x="55.3" y="86.6" width="7.7" height="3.3"/>
+<rect x="55.3" y="90.6" width="7.7" height="3.3"/>
+<rect x="55.3" y="94.4" width="7.7" height="3.3"/>
+<g>
+	<g transform="translate(76.4048,2.75906)">
+		<g transform="matrix(0,1,-1,0,0,0)">
+			<g>
+				<g transform="matrix(-1, 0, 0, 1, 17.28, 0)">
+					<g>
+						<g>
+							<g>
+								<g id="copper0">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="55.3" y="95" class="st1" width="2.3" height="2.2"/>
+<rect x="55.3" y="91.1" class="st1" width="2.3" height="2.2"/>
+<rect x="55.3" y="79.4" class="st1" width="2.3" height="2.2"/>
+<rect x="55.3" y="75.5" class="st1" width="2.3" height="2.2"/>
+<rect x="55.3" y="87.2" class="st1" width="2.3" height="2.2"/>
+<rect x="55.3" y="83.2" class="st1" width="2.3" height="2.2"/>
+<rect x="55.3" y="71.6" class="st1" width="2.3" height="2.2"/>
+<rect x="36.2" y="71.1" width="7.7" height="3.3"/>
+<rect x="36.3" y="75" width="7.7" height="3.3"/>
+<rect x="36.3" y="78.9" width="7.7" height="3.3"/>
+<rect x="36.3" y="82.7" width="7.7" height="3.3"/>
+<rect x="36.3" y="86.7" width="7.7" height="3.3"/>
+<rect x="36.3" y="90.6" width="7.7" height="3.3"/>
+<rect x="36.3" y="94.5" width="7.7" height="3.3"/>
+</svg>

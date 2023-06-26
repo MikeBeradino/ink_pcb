@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=break_out-1
+*Date=17:00:17
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;17.5855;-33.3089;90;Bottom;AUX-OUT1
+2;;;17.5073;-18.6681;0;Top;Socket
+3;;;18.4555;-16.1389;0;Bottom;Via7
+4;;;3.55562;-12.1389;0;Bottom;Via1
+5;;;21.8558;-19.2389;0;Bottom;Via5
+6;;;33.7557;-31.2389;0;Bottom;Via3
+7;;;14.8555;-16.1389;0;Bottom;Via6
+8;;;9.5122;-11.3095;0;Bottom;Via2

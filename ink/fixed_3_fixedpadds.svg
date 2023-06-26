@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 99.2 105.7"
+	 style="enable-background:new 0 0 99.2 105.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#005C00;stroke:#000000;stroke-width:0.5;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.378;}
+	.st2{fill:#FFBF00;}
+	.st3{fill:none;stroke:#000000;stroke-width:1.000000e-03;}
+</style>
+<path id="boardoutline" class="st0" d="M18.6,38c2.3,0,4.1,1.8,4.1,4.1s-1.8,4.1-4.1,4.1s-4.1-1.8-4.1-4.1S16.4,38,18.6,38z
+	 M49.5,38c2.3,0,4.1,1.8,4.1,4.1s-1.8,4.1-4.1,4.1s-4.1-1.8-4.1-4.1S47.2,38,49.5,38z M80.5,38c2.3,0,4.1,1.8,4.1,4.1
+	s-1.8,4.1-4.1,4.1c-2.3,0-4.1-1.8-4.1-4.1S78.2,38,80.5,38z M18.2,80.3C18.2,80.3,18.3,80.3,18.2,80.3c2.1,0,3.7,1.6,3.7,3.7
+	c0,2-1.6,3.7-3.7,3.7c-2,0-3.7-1.6-3.7-3.7C14.6,82,16.2,80.3,18.2,80.3z M80.8,80.4L80.8,80.4L80.8,80.4c2.1,0,3.7,1.7,3.7,3.7
+	s-1.6,3.7-3.7,3.7c-2,0-3.7-1.6-3.7-3.7C77.2,82.1,78.8,80.5,80.8,80.4z M0.1,105.7h98.9 M98.9,105.7L99.1,0L0.1,0.1v105.6"/>
+<path id="rect62233-9" sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" class="st1" d="M0,21L0,21h2.9h96.2 M99.1,0.1
+	c-0.2,45.4,0,81.1,0,105.5l-99.1,0L0.1,0.2L99.1,0.1z M80.5,38c-2.3,0-4.1,1.8-4.1,4.1c0,2.3,1.8,4.1,4.1,4.1c2.3,0,4.1-1.8,4.1-4.1
+	C84.7,39.8,82.8,38,80.5,38z M49.5,38c-2.3,0-4.1,1.8-4.1,4.1c0,2.3,1.8,4.1,4.1,4.1c2.3,0,4.1-1.8,4.1-4.1
+	C53.6,39.8,51.8,38,49.5,38z M18.5,38c-2.3,0-4.1,1.8-4.1,4.1c0,2.3,1.8,4.1,4.1,4.1c2.3,0,4.1-1.8,4.1-4.1
+	C22.6,39.8,20.8,38,18.5,38z M83.9,105.6V86.1c0.5-0.6,0.7-1.4,0.7-2.2c0-0.8-0.2-1.5-0.7-2.2V63.3H15.2v18.6
+	c-0.5,0.6-0.7,1.4-0.7,2.2c0,0.8,0.2,1.5,0.7,2.2v19.4 M0.1,97.9C0,32.6,0,65.3,0.1,97.9z"/>
+<rect id="rect90" x="36.9" y="87" inkscape:label="connectionpad7" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect88" x="36.9" y="83.1" inkscape:label="connectionpad6" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect86" x="36.9" y="79.2" inkscape:label="connectionpad5" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect84" x="36.9" y="75.3" inkscape:label="connectionpad4" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect82" x="36.9" y="71.4" inkscape:label="rconnectionpad3" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect80" x="36.9" y="67.5" inkscape:label="connectionpad2" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect78" x="36.9" y="63.6" inkscape:label="connectionpad1" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect45" x="55.9" y="87" inkscape:label="connectionpad14" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect43" x="55.9" y="83.1" inkscape:label="connectionpad13" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect41" x="55.9" y="79.2" inkscape:label="connectionpad12" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect39" x="55.9" y="75.3" inkscape:label="connectionpad11" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect37" x="55.9" y="71.4" inkscape:label="connectionpad10" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect35" x="55.9" y="67.5" inkscape:label="connectionpad9" class="st2" width="7.7" height="3.3">
+</rect>
+<rect id="rect33" x="55.9" y="63.6" inkscape:label="connectionpad8" class="st2" width="7.7" height="3.3">
+</rect>
+<rect x="55.9" y="74.7" class="st3" width="0.4" height="0.6"/>
+<rect x="55.9" y="66.9" class="st3" width="0.4" height="0.6"/>
+<rect x="56.3" y="70.8" class="st3" width="0.4" height="0.6"/>
+<rect x="56.3" y="74.7" class="st3" width="0.4" height="0.6"/>
+<rect x="56.3" y="78.6" class="st3" width="0.4" height="0.6"/>
+<rect x="56.3" y="82.5" class="st3" width="0.4" height="0.6"/>
+<rect x="55.9" y="86.4" class="st3" width="0.4" height="0.6"/>
+</svg>
